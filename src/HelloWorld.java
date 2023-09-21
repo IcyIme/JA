@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class HelloWorld {
+public class HelloWorld
+{
+    public static void PrintHelloWorld()
+    {
+        System.out.println("Hello World");
+    }
+
 }
